@@ -28,6 +28,8 @@ I just send these as response headers
 }
 ```
 
+![react-app](https://github.com/ShubhamDebnath/aws_assessment_lambda_rest_api/blob/main/react-app.JPG)
+
 Commands used
 
 for creating the lambda function, which is hosting the rest api,
